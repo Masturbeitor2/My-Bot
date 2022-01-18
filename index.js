@@ -64,4 +64,4 @@ for(const file of readdirSync('./Eventos')){
 }
 ////////////////////////////Prefix////////////////////////////////
 
-client.login("ODkwNzcwNDI2NTM4NjU1Nzc0.YU0omw.0YkHiEbSLkY9BMBqccNeGK1C9jY")
+client.login(ElToken :D)
